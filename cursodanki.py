@@ -1,4 +1,3 @@
-
 print("Ola mundo")
 
 # -----------------------------------------------------------------
@@ -90,4 +89,8 @@ print(type(b))
 print(type(c))
 print(type(d))
 
+# alterações feitas para testar atualizações do github.
+
 print("Testing")
+print("Testing2")
+print("Testing3")
